@@ -1,5 +1,5 @@
 # SubjectSchedulingHelper
-A simple TUI tool for course-planning and checking course schedule conflicts.
+A personal TUI tool for course-planning and checking course schedule conflicts.
 
 ---
 
