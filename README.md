@@ -14,6 +14,7 @@ A simple TUI tool for course-planning and checking course schedule conflicts.
 - `delete`: delete a course from the list
 
 ## What's next?
+- [ ] Adds a total credit count for `list`.
 - [ ] Saving/Loading course plans.
 - [ ] Adding proper error handling.
 - [ ] Gantt-like chart for visualizing occupied time per day.
